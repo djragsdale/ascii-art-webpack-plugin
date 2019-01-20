@@ -18,7 +18,7 @@
     "webpack",
     "plugin"
   ],
-  "author": "David Ragsdale",
+  "author": "David Ragsdale <asciiartwebpackplugin@davidjragsdale.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/djragsdale/ascii-art-webpack-plugin/issues"
