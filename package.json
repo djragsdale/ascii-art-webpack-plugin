@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/djragsdale/ascii-art-webpack-plugin/issues"
   },
-  "homepage": "https://github.com/djragsdale/ascii-art-webpack-plugin#readme",
+  "homepage": "https://djragsdale.github.io/ascii-art-webpack-plugin/",
   "dependencies": {
     "figlet": "^1.2.1"
   },
