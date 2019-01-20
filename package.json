@@ -1,0 +1,25 @@
+{
+  "name": "ascii-art-webpack-plugin",
+  "version": "0.1.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djragsdale/ascii-art-webpack-plugin.git"
+  },
+  "keywords": [
+    "ascii",
+    "art",
+    "webpack",
+    "plugin"
+  ],
+  "author": "David Ragsdale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/djragsdale/ascii-art-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/djragsdale/ascii-art-webpack-plugin#readme"
+}
