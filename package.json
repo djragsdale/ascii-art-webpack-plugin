@@ -1,6 +1,6 @@
 {
   "name": "ascii-art-webpack-plugin",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Append custom text header to output files from Webpack",
   "main": "lib/index.js",
   "scripts": {
